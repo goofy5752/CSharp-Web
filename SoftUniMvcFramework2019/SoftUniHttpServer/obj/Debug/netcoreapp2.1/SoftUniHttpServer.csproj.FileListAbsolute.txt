@@ -1,0 +1,11 @@
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\bin\Debug\netcoreapp2.1\SoftUniHttpServer.deps.json
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\bin\Debug\netcoreapp2.1\SoftUniHttpServer.runtimeconfig.json
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\bin\Debug\netcoreapp2.1\SoftUniHttpServer.runtimeconfig.dev.json
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\bin\Debug\netcoreapp2.1\SoftUniHttpServer.dll
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\bin\Debug\netcoreapp2.1\SoftUniHttpServer.pdb
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\obj\Debug\netcoreapp2.1\SoftUniHttpServer.csprojAssemblyReference.cache
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\obj\Debug\netcoreapp2.1\SoftUniHttpServer.csproj.CoreCompileInputs.cache
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\obj\Debug\netcoreapp2.1\SoftUniHttpServer.AssemblyInfoInputs.cache
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\obj\Debug\netcoreapp2.1\SoftUniHttpServer.AssemblyInfo.cs
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\obj\Debug\netcoreapp2.1\SoftUniHttpServer.dll
+D:\Programming\Software University\CSharp-Web\SoftUniMvcFramework2019\SoftUniHttpServer\obj\Debug\netcoreapp2.1\SoftUniHttpServer.pdb
